@@ -1,0 +1,18 @@
+#link_a {
+  text-decoration: none;
+  font-size: 40px;
+  color: aliceblue;
+  width: 100%;
+}
+h1 {
+  color: rgb(253, 254, 254);
+}
+.my_text {
+  text-decoration: underline;
+  font-size: 4vw;
+}
+.my_text:hover {
+  font-size: 8vw;
+  color: palevioletred;
+  transition: all 1s linear;
+}
