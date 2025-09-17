@@ -1,0 +1,63 @@
+#link_a {
+  text-decoration: none;
+  font-size: 40px;
+  color: aliceblue;
+  width: 100%;
+}
+h1 {
+  color: rgb(253, 254, 254);
+}
+.my_text {
+  text-decoration: underline;
+  font-size: 4vw;
+}
+.my_text:hover {
+  font-size: 8vw;
+  color: palevioletred;
+  transition: all 1s linear;
+}
+
+.div_container {
+  width: 10%;
+  height: 10%;
+  background-color: hotpink;
+  border: 1px solid blue;
+  margin-left: 5%;
+  padding-top: 2%;
+}
+h1 {
+  color: black;
+  font-size: 3vw;
+  margin: 3% auto;
+  width: 70%;
+}
+nav {
+  background-color: #f9f9f9;
+  width: 300px;
+  position: fixed;
+  top: 45px;
+  left: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  opacity: 0.2;
+  transition: all 0.5s ease;
+}
+nav:hover {
+  opacity: 1;
+  transition: all 0.5s ease;
+}
+p {
+  margin-top: 0.5%;
+}
+h1,
+h2,
+h3,
+p,
+ul,
+ol,
+div,
+img,
+hr {
+  width: 700px;
+  margin: 0px auto;
+}
