@@ -50,7 +50,7 @@ nav:hover {
 p {
   margin-top: 0.5%;
 }
-h1,
+
 h2,
 h3,
 p,
@@ -72,6 +72,7 @@ h1 + p {
   color: rgba(0, 0, 0, 0.4);
 }
 blockquote {
+  font-family: "MontserratAlternates-Bold";
   margin-top: 30px;
   margin-left: 20%;
   border-left: 2px solid palevioletred;

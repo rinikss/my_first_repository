@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "MontserratAlternates-Bold";
+  src: url(../fonts/MontserratAlternates-Bold.ttf) format(truetype);
+  font-weight: 800;
+  font-style: bold;
+}
+@font-face {
+  font-family: "MontserratAlternates-SemiBold";
+  src: url(../fonts/MontserratAlternates-SemiBold.ttf) format(truetype);
+  font-weight: 900;
+  font-style: semibold;
+}
+@font-face {
+  font-family: "MontserratAlternates-Regular";
+  src: url(../fonts/MontserratAlternates-Regular.ttf) format(truetype);
+  font-weight: 1000;
+  font-style: regular;
+}
